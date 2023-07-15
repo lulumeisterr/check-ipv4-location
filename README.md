@@ -1,1 +1,4 @@
-# check-ipv4-location
+Comparação Entre
+ - Strings
+ - Loops
+ - Classes vs Structs
